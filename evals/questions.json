@@ -1,0 +1,11 @@
+[
+  {"question": "Why couldn't Cinderella attend the ball initially?", "expected": ["work", "clothes", "stepmother"]},
+  {"question": "Who helped Cinderella go to the ball?", "expected": ["fairy godmother"]},
+  {"question": "What happened at midnight?", "expected": ["magic", "rags", "pumpkin"]},
+  {"question": "What item did Cinderella leave behind?", "expected": ["glass slipper"]},
+  {"question": "How did the prince try to find Cinderella?", "expected": ["fitted", "slipper"]},
+  {"question": "Who lived with Cinderella?", "expected": ["stepmother", "stepsisters"]},
+  {"question": "What became Cinderella's coach?", "expected": ["pumpkin"]},
+  {"question": "What did the mice become?", "expected": ["horses"]},
+  {"question": "Did Cinderella forgive her sisters?", "expected": ["forgave"]}
+]
